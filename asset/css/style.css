@@ -1,0 +1,61 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link:hover{
+    color: #FB6A27;
+    transition: 0.3s;
+}
+
+.profession{
+    margin-top: 50px;
+}
+
+.custom-container{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    margin-top: 90px;
+}
+
+.cb{
+    padding-top: 90px;
+}
+
+.margin-halaman{
+    margin-top: 90px;
+}
+
+.custom-table-1{
+    margin-top: 60px;
+}
+
+.oren{
+    color: #FB6A27;
+}
+
+.custom-tombol{
+    border-radius: 2px;
+    border: none;
+    background-color: #FB6A27;
+    transition: 0.5s;
+}
+
+.custom-tombol:hover{
+    background-color: #5f280f;
+}
+
+.custom-input:focus{
+    color: #FB6A27;
+    border-color: #FB6A27;
+    box-shadow: 0 0 10px #5f280f;
+}
+
+.custom-gambar{
+    width: 100px;
+    height: 100px;
+}
+
+i{
+    color: #FB6A27;
+}
